@@ -40,7 +40,7 @@ class FPlanImporter
     self.db_init
 
     @db.transaction
-      IO.foreach("#{FPLAN_PATH}/BFKOORD_GEO").with_index do |line, k_line|
+      IO.foreach("#{FPLAN_PATH}/BFKOORD_GEO", :encoding => 'iso-8859-1').with_index do |line, k_line|
         sql_row = {
           'stop_id' => line[0..6],
           'stop_name' => line[39..(line.length-1)].chomp,
