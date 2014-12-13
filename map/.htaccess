@@ -10,3 +10,6 @@
         SetOutputFilter DEFLATE
     </FilesMatch>
 </IfModule>
+
+RewriteEngine On
+RewriteRule ^(.*\.geojson)$ api_geojson.php?file=$1 [L]
