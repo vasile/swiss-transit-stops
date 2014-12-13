@@ -1,0 +1,1 @@
+CREATE INDEX stop_main_type ON stops(stop_main_type);
