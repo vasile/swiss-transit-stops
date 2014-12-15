@@ -7,9 +7,11 @@ Steps:
 * update the **FPLAN_PATH** in the Rakefile
 * run 
   * `rake import_sqlite:all`
+
 ![Screenshot](https://api.monosnap.com/image/download?id=AyB4x7Uw6n2ViQSY58qzOK3E3SBpKi)
   * **yes, the whole parsing takes 30" on my ordinary MacBook Air machine :o)**
 * check the output in `tmp/sbb-pois.db`
+
 ![Screenshot](https://api.monosnap.com/image/download?id=f8Ue3T38mNcwgTDlPpPxvsrNlg0k2r) 
 
 The simplest way to visualize the data is to export the SQLite content in a GeoJSON file using 
@@ -17,6 +19,7 @@ The simplest way to visualize the data is to export the SQLite content in a GeoJ
 which generates a GeoJSON file in `map/stops.geojson` and that can be visualized if you access the `map/` in a browser
 
 ![Screenshot](https://api.monosnap.com/image/download?id=5iUHNnrlm14IoNSEmdb1NUZ4x88I1V)
+
 Live DEMO: [maps.vasile.ch](http://maps.vasile.ch/swiss-transit-stops/)
 
 ## Feedback
