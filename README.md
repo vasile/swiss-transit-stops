@@ -17,9 +17,9 @@ Steps:
 
 The simplest way to visualize the data is to export the SQLite content in a GeoJSON file using `rake export:geojson` task which generates a GeoJSON file in `map/stops.geojson` and that can be visualized if you access the `map/` in a browser
 
-![Screenshot](https://api.monosnap.com/image/download?id=5iUHNnrlm14IoNSEmdb1NUZ4x88I1V)
+DEMO example: [maps.vasile.ch](http://maps.vasile.ch/swiss-transit-stops/)
 
-Live DEMO: [maps.vasile.ch](http://maps.vasile.ch/swiss-transit-stops/)
+![Screenshot](https://api.monosnap.com/image/download?id=5iUHNnrlm14IoNSEmdb1NUZ4x88I1V)
 
 ## Feedback
 
