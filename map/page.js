@@ -43,9 +43,10 @@ $(document).ready(function() {
     $('#map_legend').html(map_legend_parts.join(' '));
 
     var geojson_layer = new ol.layer.Vector({
-        source: new ol.source.GeoJSON({
+        source: new ol.source.Vector({
             projection: 'EPSG:21781',
-            url: 'stops.geojson'
+            url: 'stops.geojson',
+            format: new ol.format.GeoJSON()
         }),
         style: function(feature, resolution) {
             var f_type = feature.get('stop_main_type');
