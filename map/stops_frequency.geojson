@@ -1,0 +1,2385 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.440209,
+          46.948105
+        ]
+      },
+      "properties": {
+        "stop_id": "8576646",
+        "stop_name": "Bern, Bahnhof",
+        "stop_main_type": "tram",
+        "frequency_per_day": 3110,
+        "frequency_per_hour": 202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.142438,
+          46.209735
+        ]
+      },
+      "properties": {
+        "stop_id": "8587057",
+        "stop_name": "Genève, Cornavin",
+        "stop_main_type": "tram",
+        "frequency_per_day": 2831,
+        "frequency_per_hour": 196
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.143049,
+          46.204731
+        ]
+      },
+      "properties": {
+        "stop_id": "8587387",
+        "stop_name": "Genève, Bel-Air",
+        "stop_main_type": "tram",
+        "frequency_per_day": 2764,
+        "frequency_per_hour": 186
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.306397,
+          47.048796
+        ]
+      },
+      "properties": {
+        "stop_id": "8589801",
+        "stop_name": "Luzern, Kantonalbank",
+        "stop_main_type": "bus",
+        "frequency_per_day": 2606,
+        "frequency_per_hour": 148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.437779,
+          46.946063
+        ]
+      },
+      "properties": {
+        "stop_id": "8579896",
+        "stop_name": "Bern, Hirschengraben",
+        "stop_main_type": "tram",
+        "frequency_per_day": 2240,
+        "frequency_per_hour": 143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.447499,
+          46.947844
+        ]
+      },
+      "properties": {
+        "stop_id": "8507110",
+        "stop_name": "Bern, Zytglogge",
+        "stop_main_type": "tram",
+        "frequency_per_day": 2142,
+        "frequency_per_hour": 142
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.633485,
+          46.519365
+        ]
+      },
+      "properties": {
+        "stop_id": "8579254",
+        "stop_name": "Lausanne, St-François",
+        "stop_main_type": "bus",
+        "frequency_per_day": 2275,
+        "frequency_per_hour": 141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15281,
+          46.201864
+        ]
+      },
+      "properties": {
+        "stop_id": "8587061",
+        "stop_name": "Genève, Rive",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1835,
+        "frequency_per_hour": 131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.538765,
+          47.369366
+        ]
+      },
+      "properties": {
+        "stop_id": "8591299",
+        "stop_name": "Zürich, Paradeplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1968,
+        "frequency_per_hour": 131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.310246,
+          47.050754
+        ]
+      },
+      "properties": {
+        "stop_id": "8508450",
+        "stop_name": "Luzern, Bahnhof",
+        "stop_main_type": "bus",
+        "frequency_per_day": 2366,
+        "frequency_per_hour": 126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.543938,
+          47.376846
+        ]
+      },
+      "properties": {
+        "stop_id": "8588078",
+        "stop_name": "Zürich, Central",
+        "stop_main_type": "tram",
+        "frequency_per_day": 2163,
+        "frequency_per_hour": 125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.545113,
+          47.367093
+        ]
+      },
+      "properties": {
+        "stop_id": "8576193",
+        "stop_name": "Zürich, Bellevue",
+        "stop_main_type": "tram",
+        "frequency_per_day": 2178,
+        "frequency_per_hour": 125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629075,
+          46.522285
+        ]
+      },
+      "properties": {
+        "stop_id": "8591988",
+        "stop_name": "Lausanne, Bel-Air",
+        "stop_main_type": "bus",
+        "frequency_per_day": 2010,
+        "frequency_per_hour": 123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.592239,
+          47.553616
+        ]
+      },
+      "properties": {
+        "stop_id": "8500237",
+        "stop_name": "Basel, Bankverein",
+        "stop_main_type": "tram",
+        "frequency_per_day": 2024,
+        "frequency_per_hour": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.589053,
+          47.554591
+        ]
+      },
+      "properties": {
+        "stop_id": "8500897",
+        "stop_name": "Basel, Barfüsserplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1857,
+        "frequency_per_hour": 114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.587153,
+          47.559199
+        ]
+      },
+      "properties": {
+        "stop_id": "8588780",
+        "stop_name": "Basel, Schifflände",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1794,
+        "frequency_per_hour": 111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.303959,
+          47.047779
+        ]
+      },
+      "properties": {
+        "stop_id": "8573022",
+        "stop_name": "Luzern, Pilatusplatz",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1895,
+        "frequency_per_hour": 109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.370282,
+          47.422282
+        ]
+      },
+      "properties": {
+        "stop_id": "8574095",
+        "stop_name": "St. Gallen, Bahnhof",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1868,
+        "frequency_per_hour": 107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.142194,
+          46.207447
+        ]
+      },
+      "properties": {
+        "stop_id": "8592812",
+        "stop_name": "Genève, Coutance",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1600,
+        "frequency_per_hour": 107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.590297,
+          47.548285
+        ]
+      },
+      "properties": {
+        "stop_id": "8578143",
+        "stop_name": "Basel, Bahnhof SBB",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1665,
+        "frequency_per_hour": 107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.308891,
+          47.053256
+        ]
+      },
+      "properties": {
+        "stop_id": "8573054",
+        "stop_name": "Luzern, Schwanenplatz",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1787,
+        "frequency_per_hour": 106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.916119,
+          46.068883
+        ]
+      },
+      "properties": {
+        "stop_id": "8501337",
+        "stop_name": "Felskinn",
+        "stop_main_type": "cable",
+        "frequency_per_day": 917,
+        "frequency_per_hour": 105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.594836,
+          47.551301
+        ]
+      },
+      "properties": {
+        "stop_id": "8500073",
+        "stop_name": "Basel, Aeschenplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1807,
+        "frequency_per_hour": 104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.533284,
+          47.39841
+        ]
+      },
+      "properties": {
+        "stop_id": "8591101",
+        "stop_name": "Zürich, Bucheggplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1474,
+        "frequency_per_hour": 103
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15545,
+          46.202542
+        ]
+      },
+      "properties": {
+        "stop_id": "8592883",
+        "stop_name": "Genève, Place des Eaux-Vives",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1324,
+        "frequency_per_hour": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.522398,
+          47.390795
+        ]
+      },
+      "properties": {
+        "stop_id": "8580522",
+        "stop_name": "Zürich, Escher-Wyss-Platz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1564,
+        "frequency_per_hour": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.587602,
+          47.55811
+        ]
+      },
+      "properties": {
+        "stop_id": "8588775",
+        "stop_name": "Basel, Marktplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1588,
+        "frequency_per_hour": 98
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.442862,
+          46.948123
+        ]
+      },
+      "properties": {
+        "stop_id": "8588989",
+        "stop_name": "Bern, Bärenplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1455,
+        "frequency_per_hour": 97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.151516,
+          46.203397
+        ]
+      },
+      "properties": {
+        "stop_id": "8592856",
+        "stop_name": "Genève, Métropole",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1329,
+        "frequency_per_hour": 96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.139144,
+          46.222301
+        ]
+      },
+      "properties": {
+        "stop_id": "8587058",
+        "stop_name": "Genève, Nations",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1366,
+        "frequency_per_hour": 96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.519264,
+          47.370153
+        ]
+      },
+      "properties": {
+        "stop_id": "8591341",
+        "stop_name": "Zürich, Schmiede Wiedikon",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1502,
+        "frequency_per_hour": 94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.546231,
+          47.41007
+        ]
+      },
+      "properties": {
+        "stop_id": "8591382",
+        "stop_name": "Zürich, Sternen Oerlikon",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1586,
+        "frequency_per_hour": 92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.376613,
+          47.426522
+        ]
+      },
+      "properties": {
+        "stop_id": "8574471",
+        "stop_name": "St. Gallen, Marktplatz Bohl",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1606,
+        "frequency_per_hour": 92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.129694,
+          46.200789
+        ]
+      },
+      "properties": {
+        "stop_id": "8587062",
+        "stop_name": "Genève, Jonction",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1392,
+        "frequency_per_hour": 92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.541742,
+          47.37756
+        ]
+      },
+      "properties": {
+        "stop_id": "8587349",
+        "stop_name": "Zürich, Bahnhofquai/HB",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1600,
+        "frequency_per_hour": 92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593578,
+          47.561771
+        ]
+      },
+      "properties": {
+        "stop_id": "8500898",
+        "stop_name": "Basel, Claraplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1575,
+        "frequency_per_hour": 91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.638121,
+          46.517824
+        ]
+      },
+      "properties": {
+        "stop_id": "8592051",
+        "stop_name": "Lausanne, Georgette",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1490,
+        "frequency_per_hour": 91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.441365,
+          46.95164
+        ]
+      },
+      "properties": {
+        "stop_id": "8588990",
+        "stop_name": "Bern, Bollwerk",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1106,
+        "frequency_per_hour": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.138841,
+          46.209477
+        ]
+      },
+      "properties": {
+        "stop_id": "8592850",
+        "stop_name": "Genève, Lyon",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1352,
+        "frequency_per_hour": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.591529,
+          47.560929
+        ]
+      },
+      "properties": {
+        "stop_id": "8588779",
+        "stop_name": "Basel, Rheingasse",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1485,
+        "frequency_per_hour": 89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.540341,
+          47.366824
+        ]
+      },
+      "properties": {
+        "stop_id": "8591105",
+        "stop_name": "Zürich, Bürkliplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1520,
+        "frequency_per_hour": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.541929,
+          47.397491
+        ]
+      },
+      "properties": {
+        "stop_id": "8591276",
+        "stop_name": "Zürich, Milchbuck",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1482,
+        "frequency_per_hour": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.144183,
+          46.201199
+        ]
+      },
+      "properties": {
+        "stop_id": "8592885",
+        "stop_name": "Genève, Place de Neuve",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1272,
+        "frequency_per_hour": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.637075,
+          46.520713
+        ]
+      },
+      "properties": {
+        "stop_id": "8589523",
+        "stop_name": "Lausanne, Bessières",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1193,
+        "frequency_per_hour": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.246729,
+          47.136803
+        ]
+      },
+      "properties": {
+        "stop_id": "8576392",
+        "stop_name": "Biel/Bienne, Zentralplatz",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1252,
+        "frequency_per_hour": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.147182,
+          46.203114
+        ]
+      },
+      "properties": {
+        "stop_id": "8592862",
+        "stop_name": "Genève, Molard",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1235,
+        "frequency_per_hour": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.540192,
+          47.378177
+        ]
+      },
+      "properties": {
+        "stop_id": "8503000",
+        "stop_name": "Zürich HB",
+        "stop_main_type": "train",
+        "frequency_per_day": 1490,
+        "frequency_per_hour": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.538457,
+          47.373066
+        ]
+      },
+      "properties": {
+        "stop_id": "8591316",
+        "stop_name": "Zürich, Rennweg",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1116,
+        "frequency_per_hour": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.139887,
+          46.203687
+        ]
+      },
+      "properties": {
+        "stop_id": "8592906",
+        "stop_name": "Genève, Stand",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1226,
+        "frequency_per_hour": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.539946,
+          47.37656
+        ]
+      },
+      "properties": {
+        "stop_id": "8591067",
+        "stop_name": "Zürich, Bahnhofstrasse/HB",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1268,
+        "frequency_per_hour": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.513918,
+          47.370293
+        ]
+      },
+      "properties": {
+        "stop_id": "8502572",
+        "stop_name": "Zürich, Goldbrunnenplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1329,
+        "frequency_per_hour": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.549141,
+          47.370437
+        ]
+      },
+      "properties": {
+        "stop_id": "8591239",
+        "stop_name": "Zürich, Kunsthaus",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1395,
+        "frequency_per_hour": 82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.529249,
+          47.373424
+        ]
+      },
+      "properties": {
+        "stop_id": "8591381",
+        "stop_name": "Zürich, Stauffacher",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1437,
+        "frequency_per_hour": 82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.243314,
+          47.133469
+        ]
+      },
+      "properties": {
+        "stop_id": "8576391",
+        "stop_name": "Biel/Bienne, Bahnhof/Gare",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1220,
+        "frequency_per_hour": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.538708,
+          47.39163
+        ]
+      },
+      "properties": {
+        "stop_id": "8591335",
+        "stop_name": "Zürich, Schaffhauserplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1418,
+        "frequency_per_hour": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.53501,
+          47.367702
+        ]
+      },
+      "properties": {
+        "stop_id": "8591384",
+        "stop_name": "Zürich, Stockerstrasse",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1109,
+        "frequency_per_hour": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.545848,
+          47.413339
+        ]
+      },
+      "properties": {
+        "stop_id": "8591063",
+        "stop_name": "Zürich Oerlikon, Bahnhof Ost",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1316,
+        "frequency_per_hour": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.510396,
+          47.378214
+        ]
+      },
+      "properties": {
+        "stop_id": "8591038",
+        "stop_name": "Zürich, Albisriederplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1237,
+        "frequency_per_hour": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.724343,
+          47.500355
+        ]
+      },
+      "properties": {
+        "stop_id": "8506899",
+        "stop_name": "Winterthur, Hauptbahnhof",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1407,
+        "frequency_per_hour": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62482,
+          46.523595
+        ]
+      },
+      "properties": {
+        "stop_id": "8592010",
+        "stop_name": "Lausanne, Chauderon",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1313,
+        "frequency_per_hour": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.114033,
+          46.188397
+        ]
+      },
+      "properties": {
+        "stop_id": "8587418",
+        "stop_name": "Petit-Lancy, Les Esserts",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1068,
+        "frequency_per_hour": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.640677,
+          46.521242
+        ]
+      },
+      "properties": {
+        "stop_id": "8579237",
+        "stop_name": "Lausanne, Ours",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1036,
+        "frequency_per_hour": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.525464,
+          47.394328
+        ]
+      },
+      "properties": {
+        "stop_id": "8591323",
+        "stop_name": "Zürich, Rosengartenstrasse",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1028,
+        "frequency_per_hour": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.143167,
+          46.198146
+        ]
+      },
+      "properties": {
+        "stop_id": "8587907",
+        "stop_name": "Genève, Plainpalais",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1205,
+        "frequency_per_hour": 76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.244088,
+          47.134667
+        ]
+      },
+      "properties": {
+        "stop_id": "8587619",
+        "stop_name": "Biel/Bienne, Place Guisan",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1148,
+        "frequency_per_hour": 76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.434048,
+          46.945883
+        ]
+      },
+      "properties": {
+        "stop_id": "8579897",
+        "stop_name": "Bern, Kocherpark",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1231,
+        "frequency_per_hour": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58587,
+          47.561557
+        ]
+      },
+      "properties": {
+        "stop_id": "8588773",
+        "stop_name": "Basel, Universitätsspital",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1192,
+        "frequency_per_hour": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.130522,
+          46.213241
+        ]
+      },
+      "properties": {
+        "stop_id": "8592903",
+        "stop_name": "Genève, Servette",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1109,
+        "frequency_per_hour": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.544513,
+          47.379647
+        ]
+      },
+      "properties": {
+        "stop_id": "8591174",
+        "stop_name": "Zürich, Haldenegg",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1208,
+        "frequency_per_hour": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14049,
+          46.200653
+        ]
+      },
+      "properties": {
+        "stop_id": "8592804",
+        "stop_name": "Genève, Cirque",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1217,
+        "frequency_per_hour": 74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.563727,
+          47.450441
+        ]
+      },
+      "properties": {
+        "stop_id": "8573205",
+        "stop_name": "Zürich Flughafen, Bahnhof",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1193,
+        "frequency_per_hour": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.514532,
+          47.382341
+        ]
+      },
+      "properties": {
+        "stop_id": "8591177",
+        "stop_name": "Zürich, Hardplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1138,
+        "frequency_per_hour": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.520405,
+          47.357864
+        ]
+      },
+      "properties": {
+        "stop_id": "8591329",
+        "stop_name": "Zürich, Saalsporthalle",
+        "stop_main_type": "tram",
+        "frequency_per_day": 905,
+        "frequency_per_hour": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.379685,
+          47.419488
+        ]
+      },
+      "properties": {
+        "stop_id": "8589601",
+        "stop_name": "St. Gallen, Mühlegg",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1364,
+        "frequency_per_hour": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.09682,
+          46.221896
+        ]
+      },
+      "properties": {
+        "stop_id": "8587924",
+        "stop_name": "Vernier, Blandonnet",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1027,
+        "frequency_per_hour": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.577093,
+          47.553203
+        ]
+      },
+      "properties": {
+        "stop_id": "8589360",
+        "stop_name": "Basel, Schützenhaus",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1157,
+        "frequency_per_hour": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.118081,
+          46.216425
+        ]
+      },
+      "properties": {
+        "stop_id": "8592791",
+        "stop_name": "Genève, Bouchet",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1070,
+        "frequency_per_hour": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.598327,
+          47.559121
+        ]
+      },
+      "properties": {
+        "stop_id": "8589376",
+        "stop_name": "Basel, Wettsteinplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1132,
+        "frequency_per_hour": 71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.147033,
+          46.207214
+        ]
+      },
+      "properties": {
+        "stop_id": "8592864",
+        "stop_name": "Genève, Mont-Blanc",
+        "stop_main_type": "bus",
+        "frequency_per_day": 974,
+        "frequency_per_hour": 71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.525748,
+          47.361484
+        ]
+      },
+      "properties": {
+        "stop_id": "8591415",
+        "stop_name": "Zürich, Waffenplatzstrasse",
+        "stop_main_type": "tram",
+        "frequency_per_day": 922,
+        "frequency_per_hour": 71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.156417,
+          46.201078
+        ]
+      },
+      "properties": {
+        "stop_id": "8592910",
+        "stop_name": "Genève, Terrassière",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1015,
+        "frequency_per_hour": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.312033,
+          47.054636
+        ]
+      },
+      "properties": {
+        "stop_id": "8573055",
+        "stop_name": "Luzern, Luzernerhof",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1189,
+        "frequency_per_hour": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.599615,
+          47.563454
+        ]
+      },
+      "properties": {
+        "stop_id": "8500899",
+        "stop_name": "Basel Messeplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1087,
+        "frequency_per_hour": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.582687,
+          47.563431
+        ]
+      },
+      "properties": {
+        "stop_id": "8588485",
+        "stop_name": "Basel, Kinderspital",
+        "stop_main_type": "bus",
+        "frequency_per_day": 953,
+        "frequency_per_hour": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.572058,
+          47.452492
+        ]
+      },
+      "properties": {
+        "stop_id": "8588553",
+        "stop_name": "Zürich Flughafen, Fracht",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1094,
+        "frequency_per_hour": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.646189,
+          46.532814
+        ]
+      },
+      "properties": {
+        "stop_id": "8579238",
+        "stop_name": "Lausanne, Sallaz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 942,
+        "frequency_per_hour": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.519445,
+          47.387575
+        ]
+      },
+      "properties": {
+        "stop_id": "8594239",
+        "stop_name": "Zürich, Schiffbau",
+        "stop_main_type": "tram",
+        "frequency_per_day": 988,
+        "frequency_per_hour": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.607093,
+          47.566636
+        ]
+      },
+      "properties": {
+        "stop_id": "8592321",
+        "stop_name": "Basel, Badischer Bahnhof",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1037,
+        "frequency_per_hour": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.632664,
+          46.522868
+        ]
+      },
+      "properties": {
+        "stop_id": "8590442",
+        "stop_name": "Lausanne, Riponne-M. Béjart",
+        "stop_main_type": "tram",
+        "frequency_per_day": 898,
+        "frequency_per_hour": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.531623,
+          47.3846
+        ]
+      },
+      "properties": {
+        "stop_id": "8591257",
+        "stop_name": "Zürich, Limmatplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1163,
+        "frequency_per_hour": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.128822,
+          46.179438
+        ]
+      },
+      "properties": {
+        "stop_id": "8588802",
+        "stop_name": "Carouge GE, Stade de Genève",
+        "stop_main_type": "bus",
+        "frequency_per_day": 843,
+        "frequency_per_hour": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.299986,
+          47.051938
+        ]
+      },
+      "properties": {
+        "stop_id": "8573024",
+        "stop_name": "Luzern, Kasernenplatz",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1079,
+        "frequency_per_hour": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.585995,
+          47.548875
+        ]
+      },
+      "properties": {
+        "stop_id": "8500193",
+        "stop_name": "Basel, Markthalle",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1142,
+        "frequency_per_hour": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.632745,
+          47.697859
+        ]
+      },
+      "properties": {
+        "stop_id": "8503495",
+        "stop_name": "Schaffhausen, Bahnhof",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1167,
+        "frequency_per_hour": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.12786,
+          46.187659
+        ]
+      },
+      "properties": {
+        "stop_id": "8592679",
+        "stop_name": "Carouge GE, P+R Etoile",
+        "stop_main_type": "tram",
+        "frequency_per_day": 948,
+        "frequency_per_hour": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.523031,
+          47.360061
+        ]
+      },
+      "properties": {
+        "stop_id": "8591366",
+        "stop_name": "Zürich, Sihlcity Nord",
+        "stop_main_type": "tram",
+        "frequency_per_day": 889,
+        "frequency_per_hour": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.129432,
+          46.173975
+        ]
+      },
+      "properties": {
+        "stop_id": "8587075",
+        "stop_name": "Grand-Lancy, Bachet-de-Pesay",
+        "stop_main_type": "tram",
+        "frequency_per_day": 969,
+        "frequency_per_hour": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.627561,
+          46.757322
+        ]
+      },
+      "properties": {
+        "stop_id": "8576559",
+        "stop_name": "Thun, Postbrücke",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1033,
+        "frequency_per_hour": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.952452,
+          46.00598
+        ]
+      },
+      "properties": {
+        "stop_id": "8591603",
+        "stop_name": "Lugano, Centro",
+        "stop_main_type": "bus",
+        "frequency_per_day": 882,
+        "frequency_per_hour": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629667,
+          46.517593
+        ]
+      },
+      "properties": {
+        "stop_id": "8592050",
+        "stop_name": "Lausanne, gare",
+        "stop_main_type": "tram",
+        "frequency_per_day": 964,
+        "frequency_per_hour": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.135742,
+          46.208497
+        ]
+      },
+      "properties": {
+        "stop_id": "8592890",
+        "stop_name": "Genève, Prairie",
+        "stop_main_type": "bus",
+        "frequency_per_day": 921,
+        "frequency_per_hour": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.532529,
+          47.366142
+        ]
+      },
+      "properties": {
+        "stop_id": "8591404",
+        "stop_name": "Zürich, Tunnelstrasse",
+        "stop_main_type": "tram",
+        "frequency_per_day": 842,
+        "frequency_per_hour": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.151588,
+          46.802972
+        ]
+      },
+      "properties": {
+        "stop_id": "8592374",
+        "stop_name": "Fribourg, gare CFF",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1037,
+        "frequency_per_hour": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.155447,
+          46.803962
+        ]
+      },
+      "properties": {
+        "stop_id": "8589161",
+        "stop_name": "Fribourg, St-Pierre",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1063,
+        "frequency_per_hour": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.573298,
+          47.565727
+        ]
+      },
+      "properties": {
+        "stop_id": "8578144",
+        "stop_name": "Basel, Kannenfeldplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1001,
+        "frequency_per_hour": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.463718,
+          46.941186
+        ]
+      },
+      "properties": {
+        "stop_id": "8507061",
+        "stop_name": "Bern, Brunnadernstrasse",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1029,
+        "frequency_per_hour": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.488376,
+          47.391109
+        ]
+      },
+      "properties": {
+        "stop_id": "8591056",
+        "stop_name": "Zürich Altstetten, Bahnhof",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1010,
+        "frequency_per_hour": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.608806,
+          47.53717
+        ]
+      },
+      "properties": {
+        "stop_id": "8500096",
+        "stop_name": "Basel, Dreispitz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1103,
+        "frequency_per_hour": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.499471,
+          47.376876
+        ]
+      },
+      "properties": {
+        "stop_id": "8591203",
+        "stop_name": "Zürich, Hubertus",
+        "stop_main_type": "tram",
+        "frequency_per_day": 902,
+        "frequency_per_hour": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.539747,
+          47.36817
+        ]
+      },
+      "properties": {
+        "stop_id": "8591093",
+        "stop_name": "Zürich, Börsenstrasse",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1141,
+        "frequency_per_hour": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.380774,
+          47.426452
+        ]
+      },
+      "properties": {
+        "stop_id": "8574469",
+        "stop_name": "St. Gallen, Theater",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1100,
+        "frequency_per_hour": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.515707,
+          47.167863
+        ]
+      },
+      "properties": {
+        "stop_id": "8577530",
+        "stop_name": "Zug, Postplatz",
+        "stop_main_type": "bus",
+        "frequency_per_day": 964,
+        "frequency_per_hour": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.584104,
+          47.557071
+        ]
+      },
+      "properties": {
+        "stop_id": "8588489",
+        "stop_name": "Basel, Universität",
+        "stop_main_type": "tram",
+        "frequency_per_day": 710,
+        "frequency_per_hour": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.127218,
+          46.207813
+        ]
+      },
+      "properties": {
+        "stop_id": "8592802",
+        "stop_name": "Genève, Charmilles",
+        "stop_main_type": "bus",
+        "frequency_per_day": 919,
+        "frequency_per_hour": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.730706,
+          47.500554
+        ]
+      },
+      "properties": {
+        "stop_id": "8580521",
+        "stop_name": "Winterthur, Stadthaus",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1081,
+        "frequency_per_hour": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.449206,
+          46.943904
+        ]
+      },
+      "properties": {
+        "stop_id": "8507060",
+        "stop_name": "Bern, Helvetiaplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1012,
+        "frequency_per_hour": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.566497,
+          47.364035
+        ]
+      },
+      "properties": {
+        "stop_id": "8591233",
+        "stop_name": "Zürich, Klusplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 996,
+        "frequency_per_hour": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.09864,
+          46.203789
+        ]
+      },
+      "properties": {
+        "stop_id": "8593154",
+        "stop_name": "Vernier, Cité Lignon",
+        "stop_main_type": "bus",
+        "frequency_per_day": 845,
+        "frequency_per_hour": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.825983,
+          47.100569
+        ]
+      },
+      "properties": {
+        "stop_id": "8593670",
+        "stop_name": "La Chaux-de-Fonds, Balancier",
+        "stop_main_type": "bus",
+        "frequency_per_day": 909,
+        "frequency_per_hour": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.499375,
+          47.402009
+        ]
+      },
+      "properties": {
+        "stop_id": "8576240",
+        "stop_name": "Zürich, Meierhofplatz",
+        "stop_main_type": "tram",
+        "frequency_per_day": 971,
+        "frequency_per_hour": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630349,
+          46.520791
+        ]
+      },
+      "properties": {
+        "stop_id": "8501181",
+        "stop_name": "Lausanne-Flon",
+        "stop_main_type": "train",
+        "frequency_per_day": 754,
+        "frequency_per_hour": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.824292,
+          47.098725
+        ]
+      },
+      "properties": {
+        "stop_id": "8504764",
+        "stop_name": "La Chaux-de-Fonds, gare",
+        "stop_main_type": "bus",
+        "frequency_per_day": 920,
+        "frequency_per_hour": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.436019,
+          46.943761
+        ]
+      },
+      "properties": {
+        "stop_id": "8589991",
+        "stop_name": "Bern, Monbijou",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1013,
+        "frequency_per_hour": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.554083,
+          47.364875
+        ]
+      },
+      "properties": {
+        "stop_id": "8530813",
+        "stop_name": "Zürich Kreuzplatz",
+        "stop_main_type": "train",
+        "frequency_per_day": 1039,
+        "frequency_per_hour": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.442205,
+          46.945964
+        ]
+      },
+      "properties": {
+        "stop_id": "8530257",
+        "stop_name": "Bern DMB",
+        "stop_main_type": "cable",
+        "frequency_per_day": 886,
+        "frequency_per_hour": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58121,
+          47.557974
+        ]
+      },
+      "properties": {
+        "stop_id": "8580373",
+        "stop_name": "Basel, Spalentor",
+        "stop_main_type": "tram",
+        "frequency_per_day": 966,
+        "frequency_per_hour": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.928095,
+          46.105939
+        ]
+      },
+      "properties": {
+        "stop_id": "8530805",
+        "stop_name": "Saas-Fee (Alpin Express)",
+        "stop_main_type": "cable",
+        "frequency_per_day": 481,
+        "frequency_per_hour": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.689706,
+          46.999571
+        ]
+      },
+      "properties": {
+        "stop_id": "8530532",
+        "stop_name": "Eggli (Fanas) (Luftseilbahn)",
+        "stop_main_type": "cable",
+        "frequency_per_day": 482,
+        "frequency_per_hour": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.662445,
+          46.986065
+        ]
+      },
+      "properties": {
+        "stop_id": "8530531",
+        "stop_name": "Fanas (Luftseilbahn)",
+        "stop_main_type": "cable",
+        "frequency_per_day": 482,
+        "frequency_per_hour": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.461847,
+          47.09029
+        ]
+      },
+      "properties": {
+        "stop_id": "8530508",
+        "stop_name": "Hotel Alvier",
+        "stop_main_type": "cable",
+        "frequency_per_day": 721,
+        "frequency_per_hour": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.473375,
+          47.097932
+        ]
+      },
+      "properties": {
+        "stop_id": "8530507",
+        "stop_name": "Oberschan LHA",
+        "stop_main_type": "cable",
+        "frequency_per_day": 721,
+        "frequency_per_hour": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.158082,
+          46.803645
+        ]
+      },
+      "properties": {
+        "stop_id": "8530013",
+        "stop_name": "Fribourg-Neuveville",
+        "stop_main_type": "cable",
+        "frequency_per_day": 721,
+        "frequency_per_hour": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.156887,
+          46.804065
+        ]
+      },
+      "properties": {
+        "stop_id": "8530016",
+        "stop_name": "St-Pierre",
+        "stop_main_type": "cable",
+        "frequency_per_day": 721,
+        "frequency_per_hour": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.377645,
+          47.422096
+        ]
+      },
+      "properties": {
+        "stop_id": "8589913",
+        "stop_name": "St. Gallen, Mühlegg Talstation",
+        "stop_main_type": "cable",
+        "frequency_per_day": 1152,
+        "frequency_per_hour": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.723642,
+          46.98692
+        ]
+      },
+      "properties": {
+        "stop_id": "8530401",
+        "stop_name": "Illgau (Luftseilbahn)",
+        "stop_main_type": "cable",
+        "frequency_per_day": 661,
+        "frequency_per_hour": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.388304,
+          47.429348
+        ]
+      },
+      "properties": {
+        "stop_id": "8574467",
+        "stop_name": "St. Gallen, Kantonsspital",
+        "stop_main_type": "bus",
+        "frequency_per_day": 1028,
+        "frequency_per_hour": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.099802,
+          46.183416
+        ]
+      },
+      "properties": {
+        "stop_id": "8587080",
+        "stop_name": "Onex, Salle communale",
+        "stop_main_type": "tram",
+        "frequency_per_day": 853,
+        "frequency_per_hour": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.724245,
+          46.984098
+        ]
+      },
+      "properties": {
+        "stop_id": "8530400",
+        "stop_name": "Ried (Muotathal) (Seilbahn)",
+        "stop_main_type": "cable",
+        "frequency_per_day": 661,
+        "frequency_per_hour": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.443098,
+          46.9452
+        ]
+      },
+      "properties": {
+        "stop_id": "8530258",
+        "stop_name": "Marzili",
+        "stop_main_type": "cable",
+        "frequency_per_day": 886,
+        "frequency_per_hour": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.539338,
+          47.377241
+        ]
+      },
+      "properties": {
+        "stop_id": "8587348",
+        "stop_name": "Zürich, Bahnhofplatz/HB",
+        "stop_main_type": "tram",
+        "frequency_per_day": 1033,
+        "frequency_per_hour": 60
+      }
+    }
+  ]
+}
